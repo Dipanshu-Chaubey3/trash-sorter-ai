@@ -1,0 +1,1 @@
+"""Trash sorter application package."""
